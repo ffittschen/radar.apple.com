@@ -1,0 +1,5 @@
+//
+//  SampleCode.xcconfig
+//
+
+SAMPLE_CODE_DISAMBIGUATOR=${DEVELOPMENT_TEAM}

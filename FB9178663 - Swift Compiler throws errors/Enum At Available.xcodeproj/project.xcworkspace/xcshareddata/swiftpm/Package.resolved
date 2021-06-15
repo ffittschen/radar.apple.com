@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "tealium-swift",
+        "repositoryURL": "https://github.com/Tealium/tealium-swift",
+        "state": {
+          "branch": null,
+          "revision": "3dc86bccb1e0e798570be9751b0bf22db21b3def",
+          "version": "2.3.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
